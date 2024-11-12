@@ -1,0 +1,1 @@
+rsync -Prav ~/Pictures/Nikon\ Transfer\ 2 ~/Downloads/picstmp
